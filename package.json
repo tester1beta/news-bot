@@ -1,14 +1,5 @@
-npm install
-
 "scripts": {
-  "start": "node index.js"
+  "start": "node index.js",
+  "test": "mocha"
 }
 
-
-
-"dependencies": {
-  "node-telegram-bot-api": "^0.55.0",
-  "axios": "^0.24.0",
-  "cheerio": "^1.0.0-rc.10",
-  "node-cron": "^3.0.0"
-}
