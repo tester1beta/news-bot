@@ -1,3 +1,11 @@
+npm install
+
+"scripts": {
+  "start": "node index.js"
+}
+
+
+
 "dependencies": {
   "node-telegram-bot-api": "^0.55.0",
   "axios": "^0.24.0",
